@@ -89,6 +89,7 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
 ## 📝 Optional next steps 
+**I've finished this course.**
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
